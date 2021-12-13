@@ -14,3 +14,6 @@ start docker based website:
 ```bash
 ./create_docusaurus_website.sh
 ```
+
+http://localhost:3000
+
