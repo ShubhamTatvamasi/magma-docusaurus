@@ -15,7 +15,7 @@ start docker based website:
 ./create_docusaurus_website.sh
 ```
 
-http://localhost:3000
+http://localhost:3000/docs/next/basics/introduction.html
 
 ---
 
