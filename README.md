@@ -17,3 +17,11 @@ start docker based website:
 
 http://localhost:3000
 
+---
+
+start VS Code:
+```bash
+code magma/docs
+```
+
+
