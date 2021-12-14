@@ -24,4 +24,4 @@ start VS Code:
 code magma/docs
 ```
 
-
+https://magma.github.io/magma/docs/next/docs/docs_overview
