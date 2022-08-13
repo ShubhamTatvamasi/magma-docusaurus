@@ -17,6 +17,11 @@ start docker based website:
 
 http://localhost:3000/docs/next/basics/introduction.html
 
+Stop the Container:
+```bash
+docker-compose down
+```
+
 ---
 
 start VS Code:
